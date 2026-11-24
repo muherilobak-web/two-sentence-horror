@@ -1,0 +1,1 @@
+{"description":"A deterministic two-sentence horror story about a smart home that keeps its morning routine for a stranger.","license":"MIT","main":"main.ts","name":"two-sentence-horror","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
