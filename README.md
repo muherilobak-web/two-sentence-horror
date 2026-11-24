@@ -19,6 +19,6 @@ This writes the story to `/output/entry.txt` (UTF-8, no trailing newline).
 - Deterministic: the same text is written on every run.
 - No dependencies and no network access — only `node:fs`.
 
-![bounty](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253.svg)
-![rank](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/muherilobak-web/two-sentence-horror/rank.svg)
-![reward](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/muherilobak-web/two-sentence-horror/reward.svg)
+[![make.fun · u-suroto-two-sentence-horror-acea9253](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253)
+[![rank](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/muherilobak-web/two-sentence-horror/rank.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253)
+[![reward](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/muherilobak-web/two-sentence-horror/reward.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253)
